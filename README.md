@@ -1,7 +1,11 @@
 # learnCss README
 
-这是一个 css 和 js 友好提示的插件.
+这是一个 css 和 js（尚未开发） 友好提示的插件.
 
+### Links/相关链接
+vscode项目地址:https://marketplace.visualstudio.com/items?itemName=wuwenzhou.easy-css-jshttps://marketplace.visualstudio.com/items?itemName=wuwenzhou.easy-css-js
+
+效果：<img src="http://easymarket.chehe88.com/css.gif" style="margin: 10px;" width="60%" />
 ## Features
 
 js 提示功能呢尚未开发
