@@ -2,7 +2,7 @@
   "name": "easy-css-js",
   "displayName": "VSCode的css和js提示",
   "description": "css的友好提示，js尚未开发",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "keywords": [
     "vscode",
     "plugin",
@@ -26,7 +26,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sxei/vscode-plugin-demo"
+    "url": "https://github.com/fodelf/easy-css-js"
   },
   "devDependencies": {
     "@types/glob": "^7.1.1",
