@@ -1,6 +1,9 @@
 # learnCss README
 
-这是一个 css 和 js（尚未开发） 友好提示的插件，新手前端查看css属性，由于爬取https://developer.mozilla.org/zh-CN/docs/Web网站,拼接结果格式问题bug较多就是一个demo。
+这是一个 css 和 js（尚未开发） 友好提示的插件。在vscode市场中搜索easy-css-js
+功能：新手前端查看css属性。
+实现：爬取https://developer.mozilla.org/zh-CN/docs/Web
+结果：拼接格式问题bug较多就是一个demo。
 
 ### Links/相关链接
 vscode项目地址:https://marketplace.visualstudio.com/items?itemName=wuwenzhou.easy-css-jshttps://marketplace.visualstudio.com/items?itemName=wuwenzhou.easy-css-js
